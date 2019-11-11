@@ -1,0 +1,5 @@
+D:\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTaki.Dll\bin\Debug\MustiYazilim.OgrenciTaki.Dll.dll
+D:\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTaki.Dll\bin\Debug\MustiYazilim.OgrenciTaki.Dll.pdb
+D:\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTaki.Dll\obj\Debug\MustiYazilim.OgrenciTaki.Dll.dll
+D:\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTaki.Dll\obj\Debug\MustiYazilim.OgrenciTaki.Dll.pdb
+D:\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTaki.Dll\obj\Debug\MustiYazilim.OgrenciTaki.Dll.csprojAssemblyReference.cache

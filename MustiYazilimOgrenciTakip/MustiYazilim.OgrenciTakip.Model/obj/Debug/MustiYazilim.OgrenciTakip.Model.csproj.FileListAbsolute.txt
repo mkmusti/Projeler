@@ -1,0 +1,10 @@
+D:\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTakip.Model\bin\Debug\MustiYazilim.OgrenciTakip.Model.dll
+D:\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTakip.Model\bin\Debug\MustiYazilim.OgrenciTakip.Model.pdb
+D:\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTakip.Model\obj\Debug\MustiYazilim.OgrenciTakip.Model.dll
+D:\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTakip.Model\obj\Debug\MustiYazilim.OgrenciTakip.Model.pdb
+D:\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTakip.Model\obj\Debug\MustiYazilim.OgrenciTakip.Model.csprojAssemblyReference.cache
+D:\Projeler\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTakip.Model\bin\Debug\MustiYazilim.OgrenciTakip.Model.dll
+D:\Projeler\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTakip.Model\bin\Debug\MustiYazilim.OgrenciTakip.Model.pdb
+D:\Projeler\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTakip.Model\obj\Debug\MustiYazilim.OgrenciTakip.Model.csprojAssemblyReference.cache
+D:\Projeler\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTakip.Model\obj\Debug\MustiYazilim.OgrenciTakip.Model.dll
+D:\Projeler\Projeler\MustiYazilimOgrenciTakip\MustiYazilim.OgrenciTakip.Model\obj\Debug\MustiYazilim.OgrenciTakip.Model.pdb
